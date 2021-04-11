@@ -15,7 +15,7 @@ let handler = async function (m, { text, usedPrefix }) {
   m.reply(`
 Daftar berhasil!
 
-╭─「 Info 」
+╭─「 Info Beban baru」
 │ Nama: ${name}
 │ Umur: ${age}thn
 │ SN: ${sn}
